@@ -22,7 +22,7 @@ While **Selenium** is an extremely powerful package, I found it challenging to w
 
 ## Features
 
-- Scrapes financial market data from **Yahoo Finance** and **VettaFi**  
+- Scrapes financial market data from **Yahoo Finance**/**VettaFi**  
 - Extracts stock prices, trends, and other financial metrics  
 - Outputs structured data in a readable format  
 - Uses **BeautifulSoup** for parsing HTML  
