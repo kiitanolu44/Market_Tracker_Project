@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web scraping tool that tracks financial data from **Yahoo Finance** and **VettaFi**. The primary goal was to extract, process, and analyse market data efficiently.  
+The aim of this project is to develop a web scraping tool that tracks financial data from either **Yahoo Finance** or **VettaFi**.
 
 Throughout the development process, I experimented with two different web scraping libraries: **Selenium** and **BeautifulSoup**. After testing both, I decided to use **BeautifulSoup** due to its simplicity and ease of use.  
 
